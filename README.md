@@ -57,9 +57,9 @@ return 0;
 2. Membaca input dari keyboard 'for (int i=0; i<20; i++) f[i] = 0;'
 3. Membandingkan nilai variable HitungStatistik run;
 
-**Flowchart Program**
+**Flowchart Program** (https://github.com/iisamelia/praktikum8/blob/master/latihan2/Flowchart2.png)
 
-**pict program**
+**hasil program** (https://github.com/iisamelia/praktikum8/blob/master/latihan2/hasil2.PNG)
 
 **code program** 
 ```
@@ -147,9 +147,9 @@ return 0;
      			return 0;
      			}
 
-**Flowchart Program**
+**Flowchart Program** (https://github.com/iisamelia/praktikum8/blob/master/latihan3/Flowchart3.png)
 
-**pict program**
+**hasil program** (https://github.com/iisamelia/praktikum8/blob/master/latihan3/hasil3.PNG)
 
 **code program** 
 ```
@@ -265,9 +265,9 @@ return 0;
     Membaca input dari keyboard 'int a[10][10],m,n,i,j;'
     Membandingkan nilai variable system("PAUSE"); return EXIT_SUCCESS;
 
-**Flowchart Program**
+**Flowchart Program** (https://github.com/iisamelia/praktikum8/blob/master/latihan4/Flowchart4.png)
 
-**pict program**
+**hasil program** (https://github.com/iisamelia/praktikum8/blob/master/latihan4/hasil4.PNG)
 
 **code program** 
 ```
